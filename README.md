@@ -42,33 +42,33 @@ To demonstrate the mentioned in the presentation models, I use the following dat
 The dataset represents the monthly total number of visits to the UK by overseas residents (in thousands)<br>from January 1980 to October 2017.
 Source: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/timeseries/gmaa/ott)
 
-* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/look-into-the-data.ipynb
+* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/blob/master/look-into-the-data.ipynb
 
 ### Stochastic Models
 
 As a stochastic model for seasonal time series, in the presentation, I describe the Seasonal Autoregressive Integrated Moving Average (SARIMA) model.
 
-* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/stochastic-models.ipynb
+* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/blob/master/stochastic-models.ipynb
 * Python package: [Statsmodels](https://www.statsmodels.org/)
 
 
-Another example of this family is Facebook Prophet model, that based on the additive time series decomposition, some ideas from ARIMA and Bayesian analysis.
+Another example is Facebook Prophet model that implements an additive regression model which is essentially a sophisticated curve-fitting model.
 
-* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/prophet.ipynb
+* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/blob/master/prophet.ipynb
 * Python package: [Facebook Prophet](https://github.com/facebook/prophet)
 
 ### Artificial Neural Networks
 
 I consider recurrent artificial neural networks with Long Short-Term Memory (LSTM) architecture and demonstrate how to create and fit Seasonal Artificial Neural Network (SANN).
 
-* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/artificial-neural-networks.ipynb
+* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/blob/master/artificial-neural-networks.ipynb
 * Python package: [keras](https://keras.io/)
 
 ### Support Vector Machines
 
 Support Vector Machines can be used to forecast time series, particularly the Support Vector Machine Regressors (SVMR) that are demonstrated in the presentation.
 
-* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/support-vector-machines.ipynb
+* Jupyter Notebook: https://github.com/gakhov/pycon-ua-2018/blob/master/support-vector-machines.ipynb
 * Python package: [Scikit-learn](http://scikit-learn.org)
 
 

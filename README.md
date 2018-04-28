@@ -108,3 +108,57 @@ Author
 
 * `Andrii Gakhov <andrii.gakhov@gmail.com>`
 
+
+Read More
+---------
+
+[Seasonal ARIMA with Python](http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/)
+
+[TimeSeries Decomposition in Python with statsmodels and Pandas](http://www.cbcity.de/timeseries-decomposition-in-python-with-statsmodels-and-pandas)
+
+[How to Make Out-of-Sample Forecasts with ARIMA in Python](https://machinelearningmastery.com/make-sample-forecasts-arima-python/)
+
+[Introduction to ARIMA: nonseasonal models](https://people.duke.edu/~rnau/411arim.htm)
+
+[book] [Time Series by A.W. van der Vaart](https://ia600202.us.archive.org/2/items/TimeSeries/TimeSeries.pdf)
+
+[github] [Time series predictions with Keras](https://github.com/gcarq/keras-timeseries-prediction)
+
+[Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+
+[book] [Time series analysis by Jan Grandell](https://www.math.kth.se/matstat/gru/sf2943/tsform.pdf)
+
+[Seasonal Decomposition of Time Series by Loess](https://align-alytics.com/seasonal-decomposition-of-time-series-by-loessan-experiment/)
+
+[How To Identify Patterns in Time Series Data: Time Series Analysis](http://www.statsoft.com/Textbook/Time-Series-Analysis)
+
+[paper] [Another look at measures of forecast accuracy](https://robjhyndman.com/papers/mase.pdf)
+
+[book] [An Introductory Study on Time Series Modeling and Forecasting](https://arxiv.org/pdf/1302.6613.pdf)
+
+[paper] [PSO based Neural Networks vs. Traditional Statistical Models for Seasonal Time Series Forecasting](https://arxiv.org/pdf/1302.6615.pdf)
+
+[paper] [Seasonal Time Series Forecasting Models based on Artificial Neural Network](https://pdfs.semanticscholar.org/619e/9bcd2a36a193141600c4e797a8fde15abadf.pdf)
+
+[paper] [Improving artificial neural networks’ performance in seasonal time series forecasting](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0020025508002958#)
+
+[Forecasting strong seasonal time series with artificial neural networks](http://www.academia.edu/2576481/Forecasting_strong_seasonal_time_series_with_artificial_neural_networks)
+
+[Recurrent Neural Networks. Part 1: Theory](https://www.slideshare.net/gakhov/recurrent-neural-networks-part-1-theory)
+
+[slides] [Time Series Analysis - Moving average and ARMA processes](http://www.etsii.upm.es/ingor/estadistica/Carol/TSAtema4petten.pdf)
+
+[How to Make Out-of-Sample Forecasts with ARIMA in Python](https://machinelearningmastery.com/make-sample-forecasts-arima-python/)
+
+[Cryptocurrency Predictions with ARIMA](https://www.kaggle.com/taniaj/cryptocurrency-predictions-with-arima)
+
+[Using Facebook Prophet Forecasting Library to Predict the Weather](https://arnesund.com/2017/02/26/using-facebook-prophet-forecasting-library-to-predict-the-weather/)
+
+[Forecasting Time-Series data with Prophet](http://pythondata.com/forecasting-time-series-data-prophet-part-1/)
+
+[Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+
+[Playing with Prophet on Bike Sharing Demand in Washington, D.C.](https://towardsdatascience.com/playing-with-prophet-on-bike-sharing-demand-time-series-1f14255f7ff0)
+
+[paper] [Using support vector machines for time series prediction](https://www.sciencedirect.com/science/article/abs/pii/S0169743903001114)
+

@@ -7,6 +7,12 @@ Slides and demonstration examples for the talk at PyCon UA, 2018
 * https://www.gakhov.com
 * PyCon UA, Kharkiv, April 28-29, 2018
 
+### Citation
+
+If you need to cite the presentation or the code, please use **DOI 10.13140/RG.2.2.18053.86249**
+
+*Gakhov, A.V. (2018). An Introduction to Time Series Forecasting with Python [PDF slides]. PyCon UA 2018, April 28-29, 2018, Kharkov, Ukraine. Retrieved from https://github.com/gakhov/pycon-ua-2018 DOI 10.13140/RG.2.2.18053.86249*
+
 
 ### Talk Abstract
 
@@ -83,8 +89,6 @@ Install with pip
 
 Installation requires a working build environment that can be build automatically using `make` utility:
 
-.. code:: bash
-
     $ make
     $ make run
 
@@ -106,7 +110,7 @@ Source code
 Author
 -------
 
-* `Andrii Gakhov <andrii.gakhov@gmail.com>`
+* Andrii Gakhov <andrii.gakhov@gmail.com>
 
 
 Read More

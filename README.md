@@ -37,8 +37,8 @@ GitHub repository: https://github.com/gakhov/pycon-ua-2018/
 
 ## Structure
 
-* PDF slides: https://github.com/gakhov/pycon-ua-2018/slides/
-* Datasets: https://github.com/gakhov/pycon-ua-2018/data/
+* PDF slides: https://github.com/gakhov/pycon-ua-2018/tree/master/slides
+* Datasets: https://github.com/gakhov/pycon-ua-2018/tree/master/data/
 
 ### Generic dataset exploration
 
